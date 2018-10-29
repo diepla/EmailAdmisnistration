@@ -8,7 +8,7 @@ public class EmailDrivenClass {
         e1.printedInfo();
 
         System.out.println();
-        Email e2 = new Email("Steve", "Horsley");
+        Email e2 = new Email("Mom", "Dad");
         System.out.println("Your email is successfully created");
         e2.printedInfo();
 
